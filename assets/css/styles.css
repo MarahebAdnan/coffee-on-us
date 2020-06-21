@@ -1,44 +1,100 @@
-/* td {
-  background-color: orange;
-} */
+ /* td {
+  background-color: orange; 
+} 
 
-/* .background {
+.background {
   background-color: lightcoral;
-} */
+}
 
-/* #email {
+ #email {
   background-color: lightcoral;
-} */
+} 
 
-/* h1.background {
+ h1.background {
   background-color: lightcoral;
-} */
+}  */
 
-/* img { */
-/* display: block; */
-/* inline-block */
-/* inline */
-/* } */
 
 /* .font {
   font-weight: 800;
-  font-size: 18px;
-} */
+  font-size: 18px; 
 
-/* .padding { 
  padding: auto; 
  padding-bottom: 100px; 
  padding-right: 0;
-  list-style-type: none; 
- }  */
+  list-style-type: none; }  */
+  
 
-/* 
+
 .font {
   font-weight: 800;
   font-size: 18px;
   color: white;
-} */
-
-/* body {
+} 
+body {
   background-color: grey;
-} */
+}
+
+.ltr {
+  text-align: right;
+}
+.ltrandmargin {
+
+  text-align: right;
+}
+
+
+.edit {
+  margin: 20px;
+}
+.sb {
+background-color: green;
+}
+
+.cos {background-color: red;}
+
+
+
+table{
+  border-collapse: collapse;
+  text-decoration: none;
+ 
+
+ 
+  
+  text-align: center;
+  }
+  
+  .tr{
+      background-color: white;
+  }
+  
+
+   th,td{
+      border:1px solid white;
+  }
+
+  .padding {
+padding-left: 400px;
+padding-top: 100px;
+padding-right: 100px;
+padding-bottom: 100px;
+
+  }
+
+
+  .car {
+
+    background-color: blue;
+  }
+
+
+.img1 {
+  display: inline-block;
+}
+.img2 {
+  display: inline-block;
+}
+.img3 {
+  display: inline-block;
+}
